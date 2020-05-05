@@ -1,19 +1,26 @@
 # PictureURL
 This extension, in response to a request on Qlik Community, aims to display an image according to a URL and a condition
 
+.................
 
-------- HOW TO-------------------
+1-
+
 Add the extension to your project 
+![Image description](https://user-images.githubusercontent.com/13235633/81091135-4c331c00-8eee-11ea-9417-fbb99d457ba5.png)
+
+2-
 
 
 create a variable with the URLs of your images
+![Image description](https://user-images.githubusercontent.com/13235633/81091175-5e14bf00-8eee-11ea-817b-f1a671b88e3c.PNG)
 
+3-
 
 display and adjust the image
 
+![Image description](https://user-images.githubusercontent.com/13235633/81091248-78e73380-8eee-11ea-95cf-c1b1cd4b4c2f.PNG)
 
-
---------- HELP---------------------
+........................
 
 Ref: https://help.qlik.com/en-US/sense-developer/February2020/Subsystems/Extensions/Content/Sense_Extensions/CustomComponents/custom-components-installing.htm
 
